@@ -1,2 +1,2 @@
 # Jupyter
-puyhon scripts
+puthon scripts
